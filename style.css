@@ -1,0 +1,29 @@
+* {
+    padding: 0px;
+    margin: auto;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+
+  figure > .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 47%;
+  }
+
+  section > figure > img {
+    margin: auto;
+    width: 300px;
+  }
+
+  h1 {
+    text-align: center;
+    margin-top: 16px;
+  }
+  .width-adjust {
+    width: 500px;
+  }
+  .width-adjust > p {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 25px;
+  }
